@@ -1,0 +1,28 @@
+****************************************************************************************
+			Guidelines : Google Play Store Data Analysis
+****************************************************************************************
+
+1. Find the shape of the dataset
+- Number of apps and columns
+2. Display top 5 rows of the dataset
+3. Display the last 3 rows of the dataset
+4. Get information about the dataset like :
+- Number of rows & cols
+- Datatypes of each column
+- Memory requirement
+5. Get full descriptive statistics information about the dataset
+6. Total Number of app titles that contain astrology
+7. Find average app rating
+8. Find total number of unique category
+9. Display the category names of the apps
+10. Find the category that is getting the highest average rating
+11. Find total number of apps having 5 star rating
+12. Display apps with 5 star rating
+13. Find average value of reviews
+14. Find total number of free and paid apps
+15. Find an app that has maximum reviews
+16. Display top 5 apps having highest reviews
+17. Find average rating of free and paid apps
+18. Display top 5 apps having maximum installs
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
